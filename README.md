@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @becketbowes
-- 👀 I’m interested in ecology science and art  
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me becketbowes.org
 
 <!---
